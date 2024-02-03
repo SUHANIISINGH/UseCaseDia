@@ -1,9 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T06:39:31.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="22.1.21" etag="sJ6v2av3_i9rKNOZoY7W" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T06:49:25.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gsuvD_tE1N4fHxao29Xq" version="22.1.21" type="github">
   <diagram name="Page-1" id="mYdZfJt4b-v18Jx_yOli">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yO6WGPqdut7vVir4DQQk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yO6WGPqdut7vVir4DQQk-1" target="yO6WGPqdut7vVir4DQQk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-1" value="fill the application form with deltails" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yO6WGPqdut7vVir4DQQk-2" target="yO6WGPqdut7vVir4DQQk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-2" value="get the quote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yO6WGPqdut7vVir4DQQk-3" target="yO6WGPqdut7vVir4DQQk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yO6WGPqdut7vVir4DQQk-3" target="yO6WGPqdut7vVir4DQQk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-3" value="send the details to insurance company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yO6WGPqdut7vVir4DQQk-4" target="yO6WGPqdut7vVir4DQQk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-4" value="receive the application form&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yO6WGPqdut7vVir4DQQk-5" target="yO6WGPqdut7vVir4DQQk-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-5" value="get copy of policy proposal and quote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yO6WGPqdut7vVir4DQQk-6" target="yO6WGPqdut7vVir4DQQk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-6" value="send to agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-7" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="95" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="yO6WGPqdut7vVir4DQQk-7" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yO6WGPqdut7vVir4DQQk-12" target="yO6WGPqdut7vVir4DQQk-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-12" value="make the quote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yO6WGPqdut7vVir4DQQk-13" target="yO6WGPqdut7vVir4DQQk-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-13" value="receive the request for the company&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yO6WGPqdut7vVir4DQQk-14" target="yO6WGPqdut7vVir4DQQk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-14" value="send offer to the company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yO6WGPqdut7vVir4DQQk-15" target="yO6WGPqdut7vVir4DQQk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-15" value="compare the best option for policy and cover type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yO6WGPqdut7vVir4DQQk-16" target="yO6WGPqdut7vVir4DQQk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-16" value="send quote to agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-26" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry y="505" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-28" value="COSTUMER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-29" value="AGENT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-30" value="INSURANCE COMPANY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="10" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
