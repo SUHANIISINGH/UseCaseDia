@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T06:49:25.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gsuvD_tE1N4fHxao29Xq" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-03T06:50:00.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nXjD2YDRfyVgjKLWrnwK" version="22.1.21" type="github">
   <diagram name="Page-1" id="mYdZfJt4b-v18Jx_yOli">
     <mxGraphModel dx="954" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,6 +92,9 @@
         </mxCell>
         <mxCell id="yO6WGPqdut7vVir4DQQk-30" value="INSURANCE COMPANY" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="10" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yO6WGPqdut7vVir4DQQk-33" value="SUHANI SINGH&lt;br&gt;12213107" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="463" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
